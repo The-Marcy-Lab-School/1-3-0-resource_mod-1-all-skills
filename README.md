@@ -1,26 +1,17 @@
-<!-- vscode-markdown-toc -->
-
-
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
 # All Skills List
 
 **Table of Contents**
-* [1-0-0 Node](#Node)
-* [1-0-1 Vars, Functions, Strings](#VarsFunctionsStrings)
-* [1-0-2 Control Flow](#ControlFlow)
-* [1-1-0 Loops](#Loops)
-* [1-1-1 Arrays](#Arrays)
-* [1-1-2 Objects](#Objects)
-* [1-2-0 Callbacks & Higher Order Functions](#CallbacksHigherOrderFunctions)
-* [1-2-1 Array Higher Order Methods](#ArrayHigherOrderMethods)
-* [1-2-2 Regex](#Regex)
+1. [Node](#1-0-0-node)
+2. [Variables, Functions, Strings](#1-0-1-vars-functions-strings)
+3. [Control Flow](#1-0-2-control-flow)
+4. [Loops](#1-1-0-loops)
+5. [Arrays](#1-1-1-arrays)
+6. [Objects](#1-1-2-objects)
+7. [Callbacks & Higher Order Functions](#1-2-0-callbacks--higher-order-functions)
+8. [Array Higher Order Methods](#1-2-1-array-higher-order-methods)
+9. [Regex](#1-2-2-regex)
 
-##  1. <a name='Node'></a>1-0-0 Node
+## 1-0-0 Node
 
 - (CORE) Understand we're using Node, not browser
 - (CORE) Create and run js files
@@ -41,7 +32,7 @@
 - jest options
 - jest watch mode
 
-##  2. <a name='VarsFunctionsStrings'></a>1-0-1 Vars, Functions, Strings
+## 1-0-1 Vars, Functions, Strings
 
 - (CORE) const vs let vs var
 - (CORE) To avoid variable hoisting
@@ -63,7 +54,7 @@
 - Familiar with
   - .lastIndexOf, .replace, .replaceAll
 
-##  3. <a name='ControlFlow'></a>1-0-2 Control Flow
+## 1-0-2 Control Flow
 
 - (CORE) How conditions work
 - (CORE) if/else statements
@@ -79,7 +70,7 @@
 - (CORE) typeof operator
 - typeof quirks: arrays, null, NaN
 
-##  4. <a name='Loops'></a>1-1-0 Loops
+## 1-1-0 Loops
 
 - (CORE) `for` loop
 - (CORE) initialization, condition, incrementor	
@@ -92,7 +83,7 @@
 - know existence of `do while` loop
 - nested loops
 
-##  5. <a name='Arrays'></a>1-1-1 Arrays
+## 1-1-1 Arrays
 
 - string-like properties
   - (CORE) indexes
@@ -112,7 +103,7 @@
   - (CORE) splice
 - (CORE) pass by reference vs pass by value
 
-##  6. <a name='Objects'></a>1-1-2 Objects
+## 1-1-2 Objects
 
 - (CORE) Base mechanics
   - add keys,
@@ -128,7 +119,7 @@
 - Accessing nested objects
 - Iteration methods
 
-##  7. <a name='CallbacksHigherOrderFunctions'></a>1-2-0 Callbacks & Higher Order Functions
+## 1-2-0 Callbacks & Higher Order Functions
 
 - (CORE) What is a callback
 - (CORE) What is a Higher Order Function (HOF)
@@ -143,7 +134,7 @@
 - How to sort objects with `.sort()`
 - Mutate vs copying with sort
 
-##  8. <a name='ArrayHigherOrderMethods'></a>1-2-1 Array Higher Order Methods
+## 1-2-1 Array Higher Order Methods
 
 - (CORE) Imperative vs Declarative code
 - (CORE) Differences between those 2 types
@@ -158,7 +149,7 @@
 - The three arguments (val, idx, arr) of most higher order methods
 - chaining
 
-##  9. <a name='Regex'></a>1-2-2 Regex
+## 1-2-2 Regex
 
 - (CORE) RegEx: Flags
 - (CORE) RegEx: Character Sets
