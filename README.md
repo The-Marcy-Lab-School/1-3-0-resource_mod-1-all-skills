@@ -58,14 +58,13 @@
 
 - (CORE) How conditions work
 - (CORE) if/else statements
-- specific => general statements
+- (CORE) Understanding the concept of "specificity" on the order of if checks
 - (CORE) Comparison and logical operators
 - (CORE) truthy/falsy values
 - guard clauses
 - ternarys
 - (CORE) scope to lift up variables
-- +,-,/,*
-- **, %
+- The math operators: +, -, /, *, **, %
 - .ceil(), .round(), .floor()
 - (CORE) typeof operator
 - typeof quirks: arrays, null, NaN
@@ -115,6 +114,7 @@
 - (CORE) Destructuring
 - (CORE) Pass by reference
 - JSON
+- CRUD operations 
 - Cloning
 - Accessing nested objects
 - Iteration methods
@@ -144,19 +144,19 @@
   - .findIndex
 - (CORE) .filter
 - (CORE) .reduce
-  - advanced reduce with an object
+  - advanced reduce with an object as the accumulator 
 - (CORE) Why you would use one method over the other
 - The three arguments (val, idx, arr) of most higher order methods
-- chaining
+- chaining methods together
 
 ## 1-2-2 Regex
 
-- (CORE) RegEx: Flags
+- (CORE) RegEx: Flags i and g 
 - (CORE) RegEx: Character Sets
-- (CORE) RegEx: Special Character Sets
+- (CORE) RegEx: Special Character Sets 
 - (CORE) RegEx: Quantifiers
 - (CORE) RegEx: Anchors
 - (CORE) RegEx: Groups (non capture)
 - (CORE) `.test` method
-- (CORE) new RegExp
-- (CORE) regex literal syntax
+- (CORE) JS syntax of `new RegExp`
+- (CORE) JS syntax for regex literals
